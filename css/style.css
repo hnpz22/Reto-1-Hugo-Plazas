@@ -15,13 +15,13 @@
     text-align: center;
     margin: auto;
 }
-h1{
+.sect1 h1{
     width: 100%;
 }
-h1{
+.sect1 h1{
     font-size: 23px;
 }
-h2{
+.sect2 h2{
     font-size: 20px;
 }
 .sect2{
@@ -34,7 +34,7 @@ h2{
     padding: 0;
 }
 
-p{
+.sect2 p{
     color: black;
     background-color: #00808F;
     margin: 5%;
